@@ -4,3 +4,4 @@ nvidia/cuda:11.8.0-devel-ubuntu22.04
 nvidia/cuda:12.0.0-base-ubuntu20.04
 pytorch/pytorch:2.1.2-cuda11.8-cudnn8-devel
 pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
+zhaojun1998/zfile
