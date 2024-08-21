@@ -1,7 +1,5 @@
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
-nvidia/cuda:11.8.0-cudnn8-devel-ubi8
-nvidia/cuda:11.8.0-devel-ubuntu22.04
-nvidia/cuda:12.0.0-base-ubuntu20.04
-pytorch/pytorch:2.1.2-cuda11.8-cudnn8-devel
-pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
 zhaojun1998/zfile
+gnokit/tf2-lab
+aliosha/deep-learning
+pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
+pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
