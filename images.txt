@@ -1,1 +1,2 @@
 sickcodes/docker-osx:auto
+sickcodes/docker-osx:ventura
