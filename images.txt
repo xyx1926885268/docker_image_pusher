@@ -1,5 +1,1 @@
-zhaojun1998/zfile
-gnokit/tf2-lab
-aliosha/deep-learning
-pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
-pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
+ghcr.io/spacedriveapp/spacedrive/server:0.4.2
